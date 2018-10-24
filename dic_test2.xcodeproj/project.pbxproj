@@ -14,6 +14,7 @@
 		0A234FE82180CD50006ED1C2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0A234FE62180CD50006ED1C2 /* LaunchScreen.storyboard */; };
 		0A234FF32180CD50006ED1C2 /* dic_test2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A234FF22180CD50006ED1C2 /* dic_test2Tests.swift */; };
 		0A234FFE2180CD50006ED1C2 /* dic_test2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A234FFD2180CD50006ED1C2 /* dic_test2UITests.swift */; };
+		0A23500C2180CD7E006ED1C2 /* book.xml in Resources */ = {isa = PBXBuildFile; fileRef = 0A23500B2180CD7E006ED1C2 /* book.xml */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		0A234FF92180CD50006ED1C2 /* dic_test2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = dic_test2UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0A234FFD2180CD50006ED1C2 /* dic_test2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = dic_test2UITests.swift; sourceTree = "<group>"; };
 		0A234FFF2180CD50006ED1C2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0A23500B2180CD7E006ED1C2 /* book.xml */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = book.xml; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		0A234FDC2180CD50006ED1C2 /* dic_test2 */ = {
 			isa = PBXGroup;
 			children = (
+				0A23500B2180CD7E006ED1C2 /* book.xml */,
 				0A234FDD2180CD50006ED1C2 /* AppDelegate.swift */,
 				0A234FDF2180CD50006ED1C2 /* ViewController.swift */,
 				0A234FE12180CD50006ED1C2 /* Main.storyboard */,
@@ -234,6 +237,7 @@
 			files = (
 				0A234FE82180CD50006ED1C2 /* LaunchScreen.storyboard in Resources */,
 				0A234FE52180CD50006ED1C2 /* Assets.xcassets in Resources */,
+				0A23500C2180CD7E006ED1C2 /* book.xml in Resources */,
 				0A234FE32180CD50006ED1C2 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
